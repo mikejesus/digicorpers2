@@ -8,3 +8,15 @@
 .header h2{
     font-size: 1.875rem;
 }
+
+.about{
+    width: 25rem;
+    background-color: aliceblue;
+    height: 5rem;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;;
+}
